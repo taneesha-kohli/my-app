@@ -32,6 +32,9 @@ const Navbar = () => {
               <a className="nav-link " href="#">
                 Contact us
               </a>
+              <a className="nav-link " href="#">
+                Portfolio
+              </a>
             </div>
           </div>
         </div>
