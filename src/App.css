@@ -18,3 +18,13 @@ a
 {
   margin-left: auto;
 }
+
+.fa-bars
+{
+  color: white;
+}
+.navbar-toggler
+{
+  border-color: white !important;
+  padding: 5px 10px !important;
+}
